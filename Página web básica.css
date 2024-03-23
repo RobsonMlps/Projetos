@@ -1,0 +1,46 @@
+
+body{
+    background-image: linear-gradient(#000, rgb(54, 53, 53));
+    
+
+}
+h1{
+    color: beige;
+}
+
+.img{
+    text-align: center;
+    
+}
+h2{
+    color: beige;
+}
+h3{
+    color: beige;
+}
+table{
+    border-style: solid;
+    text-align: center;
+    align-items: center;
+    
+}
+th{
+    color: beige;
+    font-weight: 900;
+    background-color: rgb(72, 72, 75);
+}
+td{
+    background-color: rgb(121, 122, 122);
+    color:beige;
+}
+
+.Dicipinas{
+    color: beige;
+}
+ul{
+    color:beige;
+  text-align: left;  
+}
+p{
+    color:beige;
+}
